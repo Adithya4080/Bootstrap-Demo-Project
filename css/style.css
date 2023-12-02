@@ -1,0 +1,15 @@
+/* carousel */
+.carousel .carousel-inner .carousel-item img{ 
+    height: 650px;
+}
+
+/* order section */
+.container .row .card img{
+    height: 200px;
+}
+
+
+.carousel-control-prev-icon,.carousel-control-next-icon {
+        width: 60px; /* Adjust the width of the icon as needed */
+        height: 60px; /* Adjust the height of the icon as needed */
+    }
